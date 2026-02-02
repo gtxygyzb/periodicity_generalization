@@ -1,5 +1,7 @@
 # Do Transformers Have the Ability for Periodicity Generalization?
 
+[![arXiv](https://img.shields.io/badge/arXiv-2601.22690-b31b1b.svg)](http://arxiv.org/abs/2601.22690)
+
 Our work studies periodicity-based out-of-distribution generalization in large language models, we give the definition of periodicity from the perspective of group theory, and provide the Coper benchmark to reveal their failure to generalize unseen rule compositions
 
 This repository contains the training and evaluation code of models on various composite periodic tasks
